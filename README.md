@@ -1,6 +1,6 @@
 # Daily Commute Stress Analysis using KNN 🚗📉
 
-This project is an end-to-end Data Science assignment focused on analyzing how daily commuting affects stress levels. [cite_start]The study is based on primary data collected through a survey of 80 individuals [cite: 3-25].
+This project is an end-to-end Data Science assignment focused on analyzing how daily commuting affects stress levels. [cite_start]The study is based on primary data collected through a survey of 80 individuals 
 
 ## 📌 Project Overview
 The goal is to predict whether a person feels "Highly Stressed" (Target Variable) based on their commute logistics like distance, cost, and time spent traveling.
@@ -11,13 +11,13 @@ The goal is to predict whether a person feels "Highly Stressed" (Target Variable
 - **Algorithm:** K-Nearest Neighbors (KNN)
 
 ## 📊 Dataset Details
-- [cite_start]**Total Responses:** 80 [cite: 3-25]
+- [cite_start]**Total Responses:** 80 
 - **Key Attributes:**
-  - [cite_start]`Distance`: Commute distance in Kilometers [cite: 1]
-  - [cite_start]`Cost`: Average daily travel cost [cite: 1]
-  - [cite_start]`Time`: Duration of the commute [cite: 1]
-  - [cite_start]`Transport Mode`: Primary mode of transport (Bus, Car, Walking, etc.) [cite: 1]
-  - [cite_start]**Target:** `Stress` (Yes/No) [cite: 1]
+  - [cite_start]`Distance`: Commute distance in Kilometers 
+  - [cite_start]`Cost`: Average daily travel cost 
+  - [cite_start]`Time`: Duration of the commute 
+  - [cite_start]`Transport Mode`: Primary mode of transport (Bus, Car, Walking, etc.) 
+  - [cite_start]**Target:** `Stress` (Yes/No) 
 
 ## 🚀 Workflow
 
